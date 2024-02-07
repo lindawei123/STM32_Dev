@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
+KERNEL_DT = ./DeviceTree/OLED/kernel
+OPTEE_DT = ./DeviceTree/OLED/optee-os
+UBOOT_DT = ./DeviceTree/OLED/u-boot
+TFA_DT = ./DeviceTree/OLED/tf-a
